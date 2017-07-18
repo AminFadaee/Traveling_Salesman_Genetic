@@ -277,7 +277,7 @@ def read_input(path, N):
     ...
     
     Args:
-        path: 
+        path: string that indicates the path to the text file containing coordinates of n points
 
     Returns:
         |Nx2| numpy.array of coordinates of points
