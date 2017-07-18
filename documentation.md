@@ -1,5 +1,5 @@
 # Documentations
-Traveling Sales Man Genetic
+Traveling Salesman Genetic
 
 Table of Contents
 ================
