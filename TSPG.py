@@ -343,9 +343,8 @@ def TSP_genetic(n, k, max_generation, crossover_probability, mutation_probabilit
     '''
     Solves the Traveling Sales Person Problem using genetic algorithm with chromosomes decoded
     as cycles (solutions) of traveling Order 1 crossover, Swap mutation, complete generation 
-    replacement, Roulette Wheel Technique for choosing and negative of cycle distance for fitness.
+    replacement, Roulette Wheel Technique for choosing parents and negative of cycle distance for fitness.
     
-    parents.
     
     Args:
         n: integer denoting the number of points and also the number of genome of each chromosom 
