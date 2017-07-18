@@ -10,7 +10,7 @@ This Project Solves the Traveling Sales Person Problem using genetic algorithm w
 
 Documentation
 -------------
-Read the  [documentation.md](https://github.com/AminFadaee/Traveling_Sales_Man_Genetic/blob/master/documentation.md)
+The code is documented using Google Style Docstring but for a detailed documentation read the  [documentation.md](https://github.com/AminFadaee/Traveling_Sales_Man_Genetic/blob/master/documentation.md)
 
 Requirements
 --------
