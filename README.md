@@ -1,4 +1,4 @@
-# Traveling Sales  Man Genetic
+# Traveling Salesman Genetic
 
 This Project Solves the Traveling Sales Person Problem using genetic algorithm with the following properties:
 * Chromosomes decoded as cycles (solutions) of traveling
