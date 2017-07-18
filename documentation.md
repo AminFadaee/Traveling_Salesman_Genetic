@@ -1,7 +1,27 @@
 # Documentations
+Traveling Sales Man Genetic
 
-[TOC]
-
+Table of Contents
+================
+* [Introduction](#introduction)
+* [Libraries](#libraries)
+* [Functions](#functions)
+	* [1. TSP_genetic](#1-tsp_genetic)
+	* [2. read_input](#2-read_input)
+	* [3. init_population](#3-init_population)
+	* [4. compute_population_fitness](#4-compute_population_fitness)
+	* [5. find_best_individual](#5-find_best_individual)
+	* [6. create_new_population](#6-create_new_population)
+	* [7. plot_result](#7-plot_results)
+	* [8. distance](#8-distance)
+	* [9. select_parent](#9-select_parent)
+	* [10. decide_to](#10-decide_to)
+	* [11. crossover](#11-crossover)
+	* [12. mutate](#12-mutate)
+	* [13. plot_individual_path](#13-plot_individual_path)
+	* [14. find_cumulative_distribution](#14-find_cumulative_distribution)
+* [Author](#author)
+* [License](#license)
 
 ## Introduction
 This Project Solves the Traveling Sales Person Problem using genetic algorithm with the following properties:
