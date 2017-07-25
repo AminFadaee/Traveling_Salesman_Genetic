@@ -25,11 +25,19 @@ Run the project by running TSPG.py
 
 Here is the results for [input1.txt](https://github.com/AminFadaee/Traveling_Sales_Man_Genetic/blob/master/input1.txt) :
 
-![some](https://github.com/AminFadaee/Traveling_Sales_Man_Genetic/blob/master/figure_1.png)
+![some](https://github.com/AminFadaee/Traveling_Sales_Man_Genetic/blob/master/figure1.png)
 
 and [input2.txt](https://github.com/AminFadaee/Traveling_Sales_Man_Genetic/blob/master/input2.txt) :
 
-![some](https://github.com/AminFadaee/Traveling_Sales_Man_Genetic/blob/master/figure_2.png)
+![some](https://github.com/AminFadaee/Traveling_Sales_Man_Genetic/blob/master/figure2.png)
+
+Both runs use the following parameters:
+
+* n = 20
+* k = 100
+* max_generation = 1000
+* crossover_probability = 0.99
+* mutation_probability = 0.01
 
 License
 -------
