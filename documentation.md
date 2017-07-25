@@ -4,6 +4,7 @@ Traveling Salesman Genetic
 Table of Contents
 ================
 * [Introduction](#introduction)
+* [Algorithm](#algorithm)
 * [Libraries](#libraries)
 * [Functions](#functions)
 	* [1. TSP_genetic](#1-tsp_genetic)
@@ -31,6 +32,19 @@ This Project Solves the Traveling Sales Person Problem using genetic algorithm w
 * Complete generation replacement
 * Roulette Wheel Technique for choosing parents
 * Negative of cycle distance as fitness
+## Algorithm:
+Here is a general pseudocode for the algorithm used in this project:
+1. Initialize the population
+2. For maximum number of generation:
+
+	2.1 Find the fitness of the population
+	
+	2.2 Find the best individual so far
+	
+	2.3 Create the next generation
+	
+	2.4 Replace the current generation with the next one
+3. Return the best individual
 
 ## Libraries
 This project has been coded in Python 3.5 and the following libraries have been used:
