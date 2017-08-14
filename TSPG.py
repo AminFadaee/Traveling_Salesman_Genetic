@@ -124,7 +124,7 @@ def init_population(K, N):
     Returns:
         |KxN| numpy.array of K chromosomes with N genome for each
     '''
-    pop = numpy.zeros((k, n), dtype=numpy.int32)
+    pop = numpy.zeros((K, N), dtype=numpy.int32)
     # each chromosome is a shuffle of sequence 1:N
     seq = list(range(N))
     for i in range(K):
